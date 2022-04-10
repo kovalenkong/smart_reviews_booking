@@ -1,0 +1,125 @@
+- pagename: crowne-plaza-moscow-world-trade-centre
+  id: 1649236285389
+  hotel_name: Crowne Plaza Moscow World Trade Centre
+  from: 0
+  to: 7000
+- pagename: lotte-moscow
+  id: 1649233690279
+  hotel_name: Лотте Отель Москва - The Leading Hotels of the World
+  from: 0
+  to: 1090
+- pagename: radisson-blu-olympiyskiy-moscow
+  id: 1649236524894
+  hotel_name: Рэдиссон Блу Олимпийский
+  from: 0
+  to: 6900
+- pagename: hyatt-regency-moscow-petrovsky-park
+  id: 1649237585600
+  hotel_name: Petrovsky Park Congress Hotel
+  from: 0
+  to: 2400
+- pagename: smart-welcome
+  id: 1649238286462
+  hotel_name: Smart Welcome by ACADEMIA
+  from: 0
+  to: 250
+- pagename: otel-wawelberg
+  id: 1649238346482
+  hotel_name: Отель Wawelberg
+  from: 0
+  to: 410
+- pagename: lotte-st-petersburg
+  id: 1649238429428
+  hotel_name: Лотте Отель Санкт-Петербург – The Leading Hotels of the World
+  from: 0
+  to: 1130
+- pagename: villagehotelnottingam
+  id: 1649238518820
+  hotel_name: Village Hotel Nottingham
+  cc1: gb
+  from: 0
+  to: 1390
+- pagename: villagehotelcoventry
+  id: 1649238697667
+  hotel_name: Village Hotel Coventry
+  cc1: gb
+  from: 0
+  to: 1550
+- pagename: village-urban-resort-glasgow
+  id: 1649238784005
+  hotel_name: Village Hotel Glasgow
+  cc1: gb
+  from: 0
+  to: 1990
+- pagename: village-urban-resort-edinburgh-edinburgh7
+  id: 1649238874690
+  hotel_name: Village Hotel Edinburgh
+  cc1: gb
+  from: 0
+  to: 1850
+- pagename: viceroy-chicago
+  id: 1649239020398
+  hotel_name: Viceroy Chicago
+  cc1: us
+  from: 0
+  to: 1100
+- pagename: viceroy-santa-monica
+  id: 1649239104027
+  hotel_name: Viceroy Santa Monica
+  cc1: us
+  from: 0
+  to: 490
+- pagename: mason-rook-hotel
+  id: 1649239472171
+  hotel_name: Viceroy Washington DC
+  cc1: us
+  from: 0
+  to: 110
+- pagename: gansevoort-manhattan
+  id: 1649239530283
+  hotel_name: Gansevoort Meatpacking
+  cc1: us
+  from: 0
+  to: 630
+- pagename: motif-seattle
+  id: 1649239624542
+  hotel_name: Motif Seattle, a Destination by Hyatt Hotel
+  cc1: us
+  from: 0
+  to: 1190
+- pagename: charlotte-marriott-city-center
+  id: 1649239779961
+  hotel_name: Charlotte Marriott City Center
+  cc1: us
+  from: 0
+  to: 220
+- pagename: wynn-las-vegas-boulevard
+  id: 1649239864833
+  hotel_name: Wynn Las Vegas
+  cc1: us
+  from: 9
+  to: 1420
+- pagename: marriott-irvine-spectrum
+  id: 1649239972444
+  hotel_name: Marriott Irvine Spectrum
+  cc1: us
+  from: 0
+  to: 150
+- pagename: universityarmshotel
+  id: 1649240055648
+  hotel_name: University Arms, Autograph Collection
+  cc1: gb
+  from: 0
+  to: 1390
+- pagename: aloft-perth
+  id: 1649240134988
+  hotel_name: Aloft Perth
+  cc1: au
+  from: 0
+  to: 3590
+- pagename: aloft-abu-dhabi
+  id: 1649240244963
+  hotel_name: Aloft Abu Dhabi
+  cc1: ae
+  from: 0
+  to: 4640
